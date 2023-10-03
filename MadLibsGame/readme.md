@@ -1,6 +1,6 @@
 # ReadMe
 
-This repo is the project *LoopPractice* as described in the course [HackerRank: 30 days of code (Java)](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
+This repo is the project *day6-MadLibs Game* as described in the course [HackerRank: 30 days of code (Java)](https://www.hackerrank.com/domains/tutorials/30-days-of-code).
 
 This repo demonstrates the use of random and math libraries in Java.
 
